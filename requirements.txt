@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+statsmodels
+tqdm
+pymatchit-causal
+jupyter
+ipykernel
+openpyxl
